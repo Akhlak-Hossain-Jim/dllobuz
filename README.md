@@ -1,5 +1,4 @@
-### Hi there, I'm [dllobuz!](https://codepen.io/dllobuz) 👋
-<h2>Hi there, I'm [dllobuz!](https://codepen.io/dllobuz) 👋</h2>
+<h2>Hi there, I'm <a href="https://codepen.io/dllobuz">dllobuz!</a>👋</h2>
 [![trophy](https://github-profile-trophy.vercel.app/?username=dllobuz&column=7&theme=onedark&no-frame=true")](https://github.com/ryo-ma/github-profile-trophy)
 <h2>Hi there, I'm [dllobuz!](https://codepen.io/dllobuz) 👋</h2>
 

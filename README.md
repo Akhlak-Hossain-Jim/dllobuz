@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/s1vYWMj/Welcome-logo-Full-Green.png?raw=true" style="width: 200px;" alt="Welcome to my Github Profile" />
+  <img src="https://i.ibb.co/s1vYWMj/Welcome-logo-Full-Green.png?raw=true" width="200px">
 </div>
 
 <p align="center">
@@ -11,7 +11,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dllobuz&repo=gulpfile&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dllobuz&repo=gulpfile-lite&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dllobuz&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://profile-counter.glitch.me/dllobuz/count.svg" alt="">
+<img src="https://profile-counter.glitch.me/dllobuz/count.svg">
 
 ---
 

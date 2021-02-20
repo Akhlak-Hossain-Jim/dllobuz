@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://i.ibb.co/s1vYWMj/Welcome-logo-Full-Green.png?raw=true" width="600px">
-</div>
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dllobuz&column=7&theme=onedark&no-frame=true" width="800px">
 </p>

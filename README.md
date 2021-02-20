@@ -18,4 +18,4 @@
   </tr>
 </table>
 
-[![Visits Badge](https://badges.pufler.dev/visits/dllobuz)](https://badges.pufler.dev)
+<img src="https://img.shields.io/github/followers/dllobuz?label=Follow&style=for-the-badge"/>

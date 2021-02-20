@@ -17,3 +17,5 @@
     <td><img src="https://profile-counter.glitch.me/dllobuz/count.svg" alt="" /></td>
   </tr>
 </table>
+
+[![Visits Badge](https://badges.pufler.dev/visits/dllobuz)](https://badges.pufler.dev)

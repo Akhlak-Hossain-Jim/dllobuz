@@ -11,4 +11,9 @@
 
 ---
 
-<img src="https://profile-counter.glitch.me/dllobuz/count.svg" alt=""/>
+<table>
+  <tr>
+    <td>Welcome</td>
+    <td><img src="https://profile-counter.glitch.me/dllobuz/count.svg" alt="" /></td>
+  </tr>
+</table>

@@ -11,4 +11,4 @@
 
 ---
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=dllobuz)
+<img src="https://profile-counter.glitch.me/dllobuz/count.svg" alt=""/>

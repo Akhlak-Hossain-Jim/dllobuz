@@ -28,4 +28,5 @@
 
 <p align="center">
   <img src="https://pagespeed-insights.herokuapp.com?url=https://dllobuz.github.io/marble/app/index.html&theme=dark" width="800px"/>
+  <img src="https://pagespeed-insights.herokuapp.com?url=https://novotehinvest.ru&theme=dark" width="800px"/>
 </p>

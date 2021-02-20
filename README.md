@@ -1,4 +1,3 @@
-<p align="center">
 <h2>Hi there, I'm <a href="https://codepen.io/dllobuz">dllobuz   </a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dllobuz&column=7&theme=onedark&no-frame=true" width="800px">
@@ -11,8 +10,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dllobuz&repo=gulpfile&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dllobuz&repo=gulpfile-lite&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dllobuz&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://profile-counter.glitch.me/dllobuz/count.svg" alt="">&nbsp;&nbsp;&nbsp;&nbsp;
-![NPM Stats](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdllobuz%2Fgithub-readme-npm-downloads%2Fmaster%2Fstats.json)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://profile-counter.glitch.me/dllobuz/count.svg" alt="">
 
 ---
 
@@ -34,4 +32,3 @@
 </p>
 
 ---
-</p>

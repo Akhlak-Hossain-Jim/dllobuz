@@ -1,4 +1,4 @@
-<h2>Hi there, I'm <a href="https://codepen.io/dllobuz">dllobuz!</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2>Hi there, I'm <a href="https://codepen.io/dllobuz">dllobuz</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dllobuz&column=7&theme=onedark&no-frame=true" width="800px">
 </p>
@@ -30,3 +30,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gulp/gulp-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="40px">
+
+---
+
+### Here is a random meme for you, to make your day better
+
+<a href="https://github.com/techytushar/random-memer"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400px"></a>

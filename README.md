@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="https://i.ibb.co/s1vYWMj/Welcome-logo-Full-Green.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <img src="https://i.ibb.co/s1vYWMj/Welcome-logo-Full-Green.png?raw=true" style="max-width: 80%;" alt="Welcome to my Github Profile" />
 </div>
-
----
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dllobuz&column=7&theme=onedark&no-frame=true" width="800px">

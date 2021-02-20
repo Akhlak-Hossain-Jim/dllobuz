@@ -1,9 +1,7 @@
 ### Hi there, I'm [dllobuz!](https://codepen.io/dllobuz) 👋
-[![trophy](https://github-profile-trophy.vercel.app/?username=dllobuz&theme=onedark&no-frame=true")](https://github.com/ryo-ma/github-profile-trophy)
 <h2>Hi there, I'm [dllobuz!](https://codepen.io/dllobuz) 👋</h2>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=dllobuz&theme=onedark&no-frame=true/>
-</a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=dllobuz&column=7&theme=onedark&no-frame=true")](https://github.com/ryo-ma/github-profile-trophy)
+<h2>Hi there, I'm [dllobuz!](https://codepen.io/dllobuz) 👋</h2>
 
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dllobuz&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)

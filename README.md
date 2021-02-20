@@ -8,10 +8,9 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dllobuz&repo=gulpfile&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dllobuz&repo=gulpfile-lite&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dllobuz&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://profile-counter.glitch.me/dllobuz/count.svg" alt="" />
 
 ---
-
-<img src="https://profile-counter.glitch.me/dllobuz/count.svg" alt="" />
 
 <h3>things i code with</h3>
 

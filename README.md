@@ -1,5 +1,5 @@
 <h2>Hi there, I'm <a href="https://codepen.io/dllobuz">dllobuz!</a>👋</h2>
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=dllobuz&column=7&theme=gruvbox&no-frame=true"/>
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=dllobuz&column=7&theme=onedark&no-frame=true"/>
 
 ---
 

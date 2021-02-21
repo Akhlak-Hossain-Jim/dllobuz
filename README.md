@@ -1,3 +1,4 @@
+<h2>Hi there, i'am <a href="#">dllozov</a><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h2>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dllobuz&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dllobuz&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github-profile-trophy.vercel.app/?username=dllobuz&column=7&theme=onedark&no-frame=true" width="800px">

@@ -6,9 +6,8 @@
   <a href="https://t.me/dllozov"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </div>
 
-<p align="center">Junior Front-end developer, building open source websites. I study at the Polytechnic College. Now I am programming in IDE VSCode. I like to learn new things and apply the acquired knowledge in practice</p>
+<p align="center">Junior Front-end developer, building open source websites. I study at the Polytechnic College. Now I am programming in IDE VSCode. I like to learn new things and apply the acquired knowledge in practice</p> ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dllobuz.dllobuz)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dllobuz.dllobuz)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dllobuz&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dllobuz&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)

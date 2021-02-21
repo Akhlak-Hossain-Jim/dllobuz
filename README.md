@@ -29,7 +29,9 @@
     <img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=flat-square&logo=SASS&logoColor=white">
     <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=flat-square&logo=adobe%20photoshop&logoColor=white">
     <img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=flat-square&logo=figma&logoColor=white">
-  </p>
+</p>
+  
+---
 
 <p align="center">
   <img src="https://pagespeed-insights.herokuapp.com?url=https://dllobuz.github.io/marble/app/index.html&theme=dark" width="800px">

@@ -7,7 +7,6 @@
 </div> <br>
 
 <p align="center">Junior Front-end developer, building open source &#128150; websites. I like learning new things and &#128126; programming, glad to meet anyone. I wish you success &#128077; and thanks for visiting my profile</p> <br>
-<img align="center" src="https://profile-counter.glitch.me/dllobuz/count.svg" height="18px"> <br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dllobuz&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dllobuz&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
@@ -48,4 +47,8 @@
 
 <p align="center">
   <img src="https://pagespeed-insights.herokuapp.com?url=https://dllobuz.github.io/marble/app/index.html&theme=dark" width="800px">
-</p>
+</p> <br>
+
+<div align="center">
+  <img align="center" src="https://profile-counter.glitch.me/dllobuz/count.svg">
+</div>

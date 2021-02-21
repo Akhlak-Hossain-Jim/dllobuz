@@ -8,11 +8,11 @@
 
 <p align="center">Junior Front-end developer, building open source websites. I study at the Polytechnic College. Now I am programming in IDE VSCode. I like to learn new things and apply the acquired knowledge in practice.</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=dllobuz&show_icons=true&theme=onedark">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dllobuz&layout=compact&theme=onedark">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dllobuz&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dllobuz&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github-profile-trophy.vercel.app/?username=dllobuz&column=7&theme=onedark&no-frame=true" width="800px">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=dllobuz&repo=gulpfile&theme=onedark">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=dllobuz&repo=gulpfile-lite&theme=onedark">
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dllobuz&repo=gulpfile&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dllobuz&repo=gulpfile-lite&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dllobuz&theme=onedark" align="left" width="490px" height="165px">
 <p>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white">

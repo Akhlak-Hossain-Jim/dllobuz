@@ -4,11 +4,10 @@
   <a href="https://www.linkedin.com/in/dllozov"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://wa.me/79102264925"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="https://t.me/dllozov"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-</div>
-<br>
+</div> <br>
 
-<p align="center">Junior Front-end developer, building open source websites. I like learning new things and programming, glad to meet anyone. I wish you success and thanks for visiting my profile &nbsp;&nbsp;<img src="https://profile-counter.glitch.me/dllobuz/count.svg" height="18px"></p>
-<br>
+<p align="center">Junior Front-end developer, building open source websites. I like learning new things and programming, glad to meet anyone. I wish you success and thanks for visiting my profile</p> <br>
+<img align="center" src="https://profile-counter.glitch.me/dllobuz/count.svg" height="18px"> <br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dllobuz&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dllobuz&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)

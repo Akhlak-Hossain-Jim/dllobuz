@@ -44,7 +44,7 @@
 ---
 
 <h2 align="center">&#128170; One of my best grades</h2>
-<p align="center">The site was developed for 4 days, I was very &#129327; surprised when there were such high &#128293; values. In the future, I will try to do everything &#128175;</p> <br>
+<p align="center">The site was developed for 4 days, I was very &#129327; surprised when there were such high &#128293; values. In the future, I will try to do it &#128175;</p> <br>
 
 <p align="center">
   <img src="https://pagespeed-insights.herokuapp.com?url=https://dllobuz.github.io/marble/app/index.html&theme=dark" width="800px">

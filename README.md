@@ -31,7 +31,6 @@
     <img src="https://img.shields.io/badge/-php-7377AD?logo=php&style=flat-square&logoColor=white">
     <img src="https://img.shields.io/badge/-npm-C53635?logo=npm&style=flat-square&logoColor=white">
     <img src="https://img.shields.io/badge/-vscode-3CACF2?logo=visual-studio-code&style=flat-square&logoColor=white">
-    <img src="https://img.shields.io/badge/-linux-F7AD00?logo=linux&style=flat-square&logoColor=white">
     <img src="https://img.shields.io/badge/-arduino-00979C?logo=arduino&style=flat-square&logoColor=white">
     <img src="https://img.shields.io/badge/-photoshop-2FA3F7?logo=adobe-photoshop&style=flat-square&logoColor=white">
     <img src="https://img.shields.io/badge/-chrome-0F9855?logo=google-chrome&style=flat-square&logoColor=white">

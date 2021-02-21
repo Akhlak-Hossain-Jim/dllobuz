@@ -28,11 +28,14 @@
     <img src="https://img.shields.io/badge/-gulp-CA4545?logo=gulp&style=flat-square&logoColor=white">
     <img src="https://img.shields.io/badge/-stylelint-000000?logo=stylelint&style=flat-square&logoColor=white">
     <img src="https://img.shields.io/badge/-eslint-4930BD?logo=eslint&style=flat-square&logoColor=white">
+    <img src="https://img.shields.io/badge/-less-1D3F6C?logo=less&style=flat-square&logoColor=white">
     <img src="https://img.shields.io/badge/-php-7377AD?logo=php&style=flat-square&logoColor=white">
     <img src="https://img.shields.io/badge/-npm-C53635?logo=npm&style=flat-square&logoColor=white">
     <img src="https://img.shields.io/badge/-vscode-3CACF2?logo=visual-studio-code&style=flat-square&logoColor=white">
     <img src="https://img.shields.io/badge/-arduino-00979C?logo=arduino&style=flat-square&logoColor=white">
+    <img src="https://img.shields.io/badge/-pug-53312A?logo=pug&style=flat-square&logoColor=white">
     <img src="https://img.shields.io/badge/-photoshop-2FA3F7?logo=adobe-photoshop&style=flat-square&logoColor=white">
+    <img src="https://img.shields.io/badge/-stylus-ADCA07?logo=stylus&style=flat-square&logoColor=white">
     <img src="https://img.shields.io/badge/-chrome-0F9855?logo=google-chrome&style=flat-square&logoColor=white">
     <img src="https://img.shields.io/badge/-trello-0A70AD?logo=trello&style=flat-square&logoColor=white">
   

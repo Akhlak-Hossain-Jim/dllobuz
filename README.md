@@ -31,10 +31,6 @@
     <img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=flat-square&logo=figma&logoColor=white">
   </p>
 
----
-
-flat-square
-
 <p align="center">
   <img src="https://pagespeed-insights.herokuapp.com?url=https://dllobuz.github.io/marble/app/index.html&theme=dark" width="800px">
 </p>

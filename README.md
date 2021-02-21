@@ -6,7 +6,7 @@
   <a href="https://t.me/dllozov"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </div> <br>
 
-<p align="center">Junior Front-end developer, building open source websites. I like learning new things and programming, glad to meet anyone. I wish you success and thanks for visiting my profile</p> <br>
+<p align="center">Junior Front-end developer, building open source &#128150; websites. I like learning new things and &#128126; programming, glad to meet anyone. I wish you success &#128077; and thanks for visiting my profile</p> <br>
 <img align="center" src="https://profile-counter.glitch.me/dllobuz/count.svg" height="18px"> <br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dllobuz&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
@@ -43,8 +43,8 @@
   
 ---
 
-<h2 align="center">One of my best grades</h2>
-<p align="center">The site was developed for 4 days, I was very surprised when there were such high values. In the future, I will try to do better</p> <br>
+<h2 align="center">&#128170; One of my best grades</h2>
+<p align="center">The site was developed for 4 days, I was very &#129327; surprised when there were such high &#128293; values. In the future, I will try to do everything &#128175;</p> <br>
 
 <p align="center">
   <img src="https://pagespeed-insights.herokuapp.com?url=https://dllobuz.github.io/marble/app/index.html&theme=dark" width="800px">

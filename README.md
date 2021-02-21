@@ -16,19 +16,21 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dllobuz&repo=gulpfile-lite&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dllobuz&theme=onedark" align="left" width="490px" height="165px">
 <p>
-    <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white"/>
-    <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=flat-square&logo=git&logoColor=white"/>
-    <img alt="Trello" src="https://img.shields.io/badge/Trello%20-%23026AA7.svg?&style=flat-square&logo=Trello&logoColor=white"/>
-    <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white"/>
-    <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white"/>
-    <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=flat-square&logo=bootstrap&logoColor=white"/>
-    <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E">
-    <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=flat-square&logo=php&logoColor=white">
-    <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=flat-square&logo=markdown&logoColor=white">
-    <img alt="jQuery" src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=flat-square&logo=jquery&logoColor=white">
-    <img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=flat-square&logo=SASS&logoColor=white">
-    <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=flat-square&logo=adobe%20photoshop&logoColor=white">
-    <img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=flat-square&logo=figma&logoColor=white">
+    <img src="https://img.shields.io/badge/-github-1B1F23?logo=github&style=flat-square&logoColor=white">
+    <img src="<img src="https://img.shields.io/badge/-git-E84E31?logo=git&style=flat-square&logoColor=white">
+    <img src="https://img.shields.io/badge/-markdown-000000?logo=markdown&style=flat-square&logoColor=white">
+    <img src="https://img.shields.io/badge/-sass-C76494?logo=sass&style=flat-square&logoColor=white">
+    <img src="https://img.shields.io/badge/-jquery-0868AC?logo=jquery&style=flat-square&logoColor=white">
+    <img src="https://img.shields.io/badge/-html5-E44D26?logo=html5&style=flat-square&logoColor=white">
+    <img src="https://img.shields.io/badge/-css3-25A1E1?logo=css3&style=flat-square&logoColor=white">
+    <img src="https://img.shields.io/badge/-javascript-F7DF1E?logo=javascript&style=flat-square&logoColor=white">
+    <img src="https://img.shields.io/badge/-bootstrap-563D7C?logo=bootstrap&style=flat-square&logoColor=white">
+    <img src="https://img.shields.io/badge/-gulp-CA4545?logo=gulp&style=flat-square&logoColor=white">
+    <img src="https://img.shields.io/badge/-stylelint-000000?logo=stylelint&style=flat-square&logoColor=white">
+    <img src="https://img.shields.io/badge/-eslint-4930BD?logo=eslint&style=flat-square&logoColor=white">
+    <img src="https://img.shields.io/badge/-php-7377AD?logo=php&style=flat-square&logoColor=white">
+    <img src="https://img.shields.io/badge/-npm-C53635?logo=npm&style=flat-square&logoColor=white">
+  
 </p>
   
 ---

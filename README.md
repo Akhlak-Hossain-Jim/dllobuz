@@ -17,7 +17,7 @@
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dllobuz&theme=onedark" align="left" width="490px" height="165px">
 <p>
     <img src="https://img.shields.io/badge/-github-1B1F23?logo=github&style=flat-square&logoColor=white">
-    <img src="<img src="https://img.shields.io/badge/-git-E84E31?logo=git&style=flat-square&logoColor=white">
+    <img src="https://img.shields.io/badge/-git-E84E31?logo=git&style=flat-square&logoColor=white">
     <img src="https://img.shields.io/badge/-markdown-000000?logo=markdown&style=flat-square&logoColor=white">
     <img src="https://img.shields.io/badge/-sass-C76494?logo=sass&style=flat-square&logoColor=white">
     <img src="https://img.shields.io/badge/-jquery-0868AC?logo=jquery&style=flat-square&logoColor=white">

@@ -6,7 +6,7 @@
   <a href="https://t.me/dllozov"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </div> <br>
 
-<p align="center">Junior Front-end developer, building open source &#128150; websites. I like learning new things and &#128126; programming, glad to meet anyone. I wish you success &#128077; and thanks for visiting my profile</p> <br>
+<p align="center">Junior Front-end developer, building open source &#128150; websites. I like learning new things and &#127760; programming, glad to meet anyone. I wish you success &#128077; and thanks for visiting my profile</p> <br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dllobuz&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dllobuz&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)

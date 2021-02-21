@@ -30,6 +30,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dllobuz&repo=gulpfile&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dllobuz&repo=gulpfile-lite&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dllobuz&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api/wakatime?username=dllobuz&theme=onedark>
 <p>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>

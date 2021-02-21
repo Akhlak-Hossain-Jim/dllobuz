@@ -18,14 +18,14 @@
 <p>
     <img src="https://img.shields.io/badge/-github-1B1F23?logo=github&style=flat-square&logoColor=white">
     <img src="https://img.shields.io/badge/-git-E84E31?logo=git&style=flat-square&logoColor=white">
+    <img src="https://img.shields.io/badge/-gulp-CA4545?logo=gulp&style=flat-square&logoColor=white">
     <img src="https://img.shields.io/badge/-markdown-000000?logo=markdown&style=flat-square&logoColor=white">
     <img src="https://img.shields.io/badge/-sass-C76494?logo=sass&style=flat-square&logoColor=white">
     <img src="https://img.shields.io/badge/-jquery-0868AC?logo=jquery&style=flat-square&logoColor=white">
     <img src="https://img.shields.io/badge/-html5-E44D26?logo=html5&style=flat-square&logoColor=white">
     <img src="https://img.shields.io/badge/-css3-25A1E1?logo=css3&style=flat-square&logoColor=white">
-    <img src="https://img.shields.io/badge/-gulp-CA4545?logo=gulp&style=flat-square&logoColor=white">
     <img src="https://img.shields.io/badge/-bootstrap-563D7C?logo=bootstrap&style=flat-square&logoColor=white">
-    <img src="https://img.shields.io/badge/-javascript-F7E580?logo=javascript&style=flat-square&logoColor=white">
+    <img src="https://img.shields.io/badge/-javascript-F1A324?logo=javascript&style=flat-square&logoColor=white">
     <img src="https://img.shields.io/badge/-stylelint-000000?logo=stylelint&style=flat-square&logoColor=white">
     <img src="https://img.shields.io/badge/-eslint-4930BD?logo=eslint&style=flat-square&logoColor=white">
     <img src="https://img.shields.io/badge/-less-1D3F6C?logo=less&style=flat-square&logoColor=white">

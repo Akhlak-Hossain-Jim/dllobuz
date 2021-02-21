@@ -16,7 +16,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dllobuz&repo=gulpfile-lite&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dllobuz&theme=onedark" align="left" width="490px" height="165px">
 <p>
-    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white">
     <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white"/>
     <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=flat-square&logo=git&logoColor=white"/>
     <img alt="Trello" src="https://img.shields.io/badge/Trello%20-%23026AA7.svg?&style=flat-square&logo=Trello&logoColor=white"/>

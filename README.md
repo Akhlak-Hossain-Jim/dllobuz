@@ -46,7 +46,9 @@
 <p align="center">The site was developed &#129327; for very fast, I was very surprised when there were such high &#128293; values. In the future, I will try to do it &#128175;</p> <br>
 
 <p align="center">
-  <img src="pagespeed.svg" width="800px">
+  <a href="lighthouse.html">
+    <img src="pagespeed.svg" width="800px">
+  </a>
 </p> <br>
 
 <div align="center">

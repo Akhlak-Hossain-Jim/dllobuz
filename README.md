@@ -47,7 +47,7 @@
 
 <p align="center">
   <a href="https://dllobuz.github.io/lighthouse/lighthouse.html">
-    <img src="pagespeed.svg" width="800px">
+    <img src="lighthouse.svg" width="800px">
   </a>
 </p> <br>
 

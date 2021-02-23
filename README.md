@@ -46,7 +46,7 @@
 <p align="center">The site was developed &#129327; for very fast, I was very surprised when there were such high &#128293; values. In the future, I will try to do it &#128175;</p> <br>
 
 <p align="center">
-  <a href="https://googlechrome.github.io/lighthouse/viewer/">
+  <a href="https://dllobuz.github.io/lighthouse/lighthouse.html">
     <img src="pagespeed.svg" width="800px">
   </a>
 </p> <br>
